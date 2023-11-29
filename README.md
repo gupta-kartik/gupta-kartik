@@ -6,7 +6,7 @@ Before I started working in Sales I used to work as a Software Engineer in Austr
 
 Talk to me about how GitHub Copilot, GitHub Source Code Management and Advanced Security can help you and your organization improve your DevSecOps lifecycle, implement a shift-left approach and, improve your metrics such as MTTR, error rates and code quality.
 
-Email me at gupta-kartik@github.com or follow me on X (Twitter) at https://twitter.com/_kartikgupta_. 
+Email me at gupta-kartik@github.com or follow me on X (Twitter) at [https://twitter.com/\_kartikgupta\_](https://twitter.com/_kartikgupta_). 
 
 Happy Developing!
 
